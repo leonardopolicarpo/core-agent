@@ -78,7 +78,7 @@ core-agent/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/core-agent.git
+git clone https://github.com/leonardopolicarpo/core-agent.git
 cd core-agent
 ```
 
@@ -133,12 +133,12 @@ Este repositório é o coração da arquitetura planejada para múltiplas aplica
 
 ## 📄 Licença
 
-Privado no momento. Avaliando liberação futura como open source.
+Este projeto está licenciado sob a **Licença MIT** - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ---
 
 ## 👤 Autor
 
 Desenvolvido por **Leonardo Policarpo**\
-🔗 [linkedin.com/in/leonardopolicarpo](https://linkedin.com/in/leonardopolicarpo)
+🔗 [linkedin.com/in/leonardo-policarpo](https://linkedin.com/in/leonardo-policarpo)
 

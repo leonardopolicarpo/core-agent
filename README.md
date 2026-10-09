@@ -78,7 +78,7 @@ core-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/seu-usuario/core-agent.git
+git clone https://github.com/leonardopolicarpo/core-agent.git
 cd core-agent
 ```
 
@@ -133,12 +133,12 @@ This repository is the core foundation for a planned architecture of custom inte
 
 ## 📄 License
 
-Private for now. Considering open source release in the future.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👤 Author
 
 Created by **Leonardo Policarpo**\
-🔗 [linkedin.com/in/leonardopolicarpo](https://linkedin.com/in/leonardopolicarpo)
+🔗 [linkedin.com/in/leonardo-policarpo](https://linkedin.com/in/leonardo-policarpo)
 
